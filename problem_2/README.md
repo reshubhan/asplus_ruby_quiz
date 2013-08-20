@@ -14,3 +14,5 @@ For example:
 This directory contains `country_ip.rb` and `country_ip_test.rb`.  Please implement the methods in `country_ip.rb` so that all of the tests in `country_ip_test.rb` pass when the following command is executed:
 
     ruby country_ip_test.rb
+
+    #formula = c[0].to_i*256**0+c[1].to_i*256**1+c[2].to_i*256**2+c[3].to_i*256**3
